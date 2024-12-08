@@ -1,5 +1,5 @@
 .listing {
-    background: var(--accent-color);
+    background-color: thistle;
     border-radius: 30px;
     padding-bottom: 30px;
   }
@@ -29,3 +29,10 @@
     content: "\203A";
     margin-left: 5px;
   }
+  
+  
+  /*
+  Copyright Google LLC. All Rights Reserved.
+  Use of this source code is governed by an MIT-style license that
+  can be found in the LICENSE file at https://angular.io/license
+  */
